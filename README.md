@@ -6,3 +6,5 @@ Useful websites related with programming
 
 [ApkDependencyGraph](https://github.com/alexzaitsev/apk-dependency-graph) is a dependency graph visualizer
 
+[Static Analysis Plugin](https://github.com/novoda/gradle-static-analysis-plugin) is provide easy setup for common static code analyzers (Detekt, PMD, KtLint ..)
+
